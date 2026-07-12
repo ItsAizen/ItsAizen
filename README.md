@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Mehrdad Ansarifar 👋
 
-<!--
-**ItsAizen/ItsAizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer with a passion for building products that matter.
+I write clean code, think in systems, and build toward launching my own startup.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend (Main)**
+- React / Next.js
+- TypeScript
+- Tailwind CSS
+
+**Also work with**
+- Python
+- Node.js / Express
+
+## 🚀 What I'm working on
+- Building [اسم پروژه یا بنویس "my startup MVP"] — [یه خط توضیح]
+- Open to freelance & collaboration opportunities
+
+## 📫 Reach me
+- Email: ...
+- LinkedIn: ...
+
+---
+*Available for freelance projects and full-time roles*
