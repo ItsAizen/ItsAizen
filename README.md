@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mehrdad | Developer & Visual Designer<br><br>📍 Based in Iran | 18 years old<br>🎨 Specialized in visual design and creative solutions.<br>🚀 Aspiring entrepreneur with a focus on startup culture and team leadership.<br>💻 Passionate about building seamless user experiences.
+Mehrdad | Developer & Visual Designer<br><br>📍 Based in Iran | 18 years old<br>🎨 Specialized in visual design and creative solutions.<br>🚀 Aspiring entrepreneur with a focus on startup business and team leadership.<br>💻 Passionate about building seamless user experiences.
 
 
 ## 🌐 Socials:
